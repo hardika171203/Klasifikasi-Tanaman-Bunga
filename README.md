@@ -98,5 +98,4 @@ Berikut ini adalah diagram loss yang didapatkan setelah melatih model DenseNet20
 [[6](https://medium.com/analytics-vidhya/image-augmentation-9b7be3972e27)] Tanwar, S. (2021). *Image Augmentation - Improving Deep learning models*. Medium. https://medium.com/analytics-vidhya/image-augmentation-9b7be3972e27
 
 [[7](https://mragungsetiaji.github.io/python/machine%20learning/2018/09/02/deeplearning-loss-function-metric.html)] Setiaji, A. (2018). *Deep Learning : Loss Function, Metric*. GitHub. https://mragungsetiaji.github.io/python/machine%20learning/2018/09/02/deeplearning-loss-function-metric.html
-# Klasifikasi-Tanaman-Bunga
-# Klasifikasi-Tanaman-Bunga
+
