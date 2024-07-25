@@ -466,7 +466,7 @@ plt.show()
 
 ## Uji Coba Model
 
-Setelah mendapatkan model dengan kinerja yang baik, maka dapat diujicobakan untuk mengenali gambar bunga.
+Setelah mendapatkan model dengan kinerja yang baik, maka dapat diujicobakan untuk mengenali tanaman bunga.
 """
 
 # Menampilkan daftar kelas atau label gambar
