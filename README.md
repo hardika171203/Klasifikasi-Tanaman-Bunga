@@ -4,7 +4,7 @@
 Domain yang dipilih untuk proyek *machine learning* ini adalah **Pendidikan**, dengan judul **Klasifikasi Tanaman Bunga**
 - Latar Belakang
 
-![Mengenali bunga](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.idntimes.com%2Fscience%2Fdiscovery%2Ffatma-roisatin-nadhiroh%2Fbunga-pegunungan-alpen-c1c2&psig=AOvVaw27c8ILtrsFoun2cwr0JAyY&ust=1721999521882000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD_16CiwocDFQAAAAAdAAAAABAE)
+![Mengenali bunga](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.eigeradventure.com%2Fbunga-di-gunung%2F&psig=AOvVaw27c8ILtrsFoun2cwr0JAyY&ust=1721999521882000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD_16CiwocDFQAAAAAdAAAAABAI)
 
 Anak-anak biasanya memiliki rasa ingin tahu yang tinggi. Untuk itu pendidikan pada anak dirancang dengan semenarik mungkin dan menyenangkan bagi anak. Salah satu cara yang bisa dilakukan adalah dengan menggunakan teknologi sebagai penunjang pembelajaran. Penggunaan teknologi dalam menyelesaikan tugas pada siswa, juga dapat menimbulkan kreativitas dikalangan siswa dalam mengembangkan pengetahuan yang telah mereka miliki [[1](https://doi.org/10.31599/jki.v1i1.265)].
 Untuk itu dalam proyek ini saya mengangkat judul **Klasifikasi Tanaman Bunga** yang diharapkan nantinya dapat diimplementasikan menjadi sebuah aplikasi yang menarik bagi anak-anak untuk belajar mengenali jenis-jenis bunga di sekitar mereka.
